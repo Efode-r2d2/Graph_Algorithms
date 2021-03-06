@@ -1,9 +1,4 @@
-/*
-	Author: Efriem Desalew, efidesalew@gmail.com 
-	Desc: This Program Demonstarte how to implement Breadth First Search Algorithm
-	Compiling: g++ -o [object file name] [source file name]
-	Running: ./[object file name]
-*/
+
 #include<iostream>
 #include<vector>
 #include<queue>
